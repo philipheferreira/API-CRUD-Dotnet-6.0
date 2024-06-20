@@ -1,7 +1,7 @@
 ﻿using SistemaDeTarefas.Models;
 
 namespace SistemaDeTarefas.Repositorios.Interfaces{
-    public interface IUsuarioRepositor{
+    public interface IUsuarioRepositorio{
         Task<List<UsuarioModel>> BuscarTodosUsuarios();
         Task<UsuarioModel> BuscarPorId(int id);
         Task<UsuarioModel> Adicionar(UsuarioModel usuario);

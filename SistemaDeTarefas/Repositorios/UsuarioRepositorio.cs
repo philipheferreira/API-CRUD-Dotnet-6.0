@@ -3,9 +3,8 @@ using SistemaDeTarefas.Data;
 using SistemaDeTarefas.Models;
 using SistemaDeTarefas.Repositorios.Interfaces;
 
-namespace SistemaDeTarefas.Repositorios
-{
-    public class UsuarioRepositorio : IUsuarioRepositor{
+namespace SistemaDeTarefas.Repositorios{
+    public class UsuarioRepositorio : IUsuarioRepositorio{
 
         private readonly SistemaTarefasDBContex _dbContext;
 
