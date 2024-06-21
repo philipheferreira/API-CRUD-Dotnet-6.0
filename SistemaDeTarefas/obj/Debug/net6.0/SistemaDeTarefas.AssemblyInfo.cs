@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaDeTarefas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9a2e93526764f742b9d5d16c7dfd8248d2c4d28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0248b216ad52e4ff7fdc6fcf439b7cb0f4dcb66e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaDeTarefas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaDeTarefas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
